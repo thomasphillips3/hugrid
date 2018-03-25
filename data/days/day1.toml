@@ -1,0 +1,6 @@
+title = "Day 1"
+image = "images/full/1.png"
+thumb = "images/thumbs/1.png"
+alt = "Day 1"
+description = "A responsive way for keeping track of your 100 Days of Code projects."
+url = "post/today"
